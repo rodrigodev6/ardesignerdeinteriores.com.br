@@ -1,0 +1,4 @@
+[30-Apr-2022 12:37:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-content/themes/twentynineteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-content/themes/twentynineteen/index.php on line 17

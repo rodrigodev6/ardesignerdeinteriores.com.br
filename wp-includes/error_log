@@ -1,0 +1,170 @@
+[21-Jun-2021 06:54:14 America/Fortaleza] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[21-Jun-2021 06:54:14 America/Fortaleza] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[21-Jun-2021 06:54:14 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[21-Jun-2021 06:54:14 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[21-Jun-2021 06:54:14 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[04-Aug-2021 06:44:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[05-Aug-2021 03:06:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[07-Aug-2021 07:08:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[09-Aug-2021 21:17:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[10-Aug-2021 03:08:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[10-Aug-2021 14:22:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[10-Aug-2021 14:49:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[14-Aug-2021 03:23:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[15-Aug-2021 21:27:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[16-Aug-2021 05:34:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[16-Aug-2021 05:46:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[17-Aug-2021 05:29:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[17-Aug-2021 21:54:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[19-Aug-2021 00:30:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[19-Aug-2021 00:37:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[20-Aug-2021 02:02:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[20-Aug-2021 04:44:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[20-Aug-2021 09:29:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[20-Aug-2021 09:56:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[20-Aug-2021 10:05:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[20-Aug-2021 10:07:53 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[20-Aug-2021 13:45:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[20-Aug-2021 20:37:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[22-Aug-2021 21:11:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[23-Aug-2021 02:29:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[23-Aug-2021 04:50:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[23-Aug-2021 05:02:48 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[23-Aug-2021 17:12:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[24-Aug-2021 12:53:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[27-Aug-2021 16:37:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[31-Aug-2021 14:45:58 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[04-Sep-2021 12:10:44 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[10-Sep-2021 11:13:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[12-Sep-2021 10:37:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[13-Sep-2021 05:35:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/template-canvas.php on line 12
+[16-Jan-2022 07:02:15 America/Fortaleza] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[16-Jan-2022 07:02:15 America/Fortaleza] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[16-Jan-2022 07:02:15 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[16-Jan-2022 07:02:15 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[16-Jan-2022 07:02:15 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[05-Feb-2022 16:41:57 America/Fortaleza] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[05-Feb-2022 16:41:57 America/Fortaleza] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[05-Feb-2022 16:41:57 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[05-Feb-2022 16:41:57 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[05-Feb-2022 16:41:57 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[22-Feb-2022 00:31:31 America/Fortaleza] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[22-Feb-2022 00:31:31 America/Fortaleza] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[22-Feb-2022 00:31:31 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[22-Feb-2022 00:31:31 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[22-Feb-2022 00:31:31 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[17-Mar-2022 22:05:05 America/Fortaleza] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[17-Mar-2022 22:05:05 America/Fortaleza] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[17-Mar-2022 22:05:05 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[17-Mar-2022 22:05:05 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[17-Mar-2022 22:05:05 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[14-Apr-2022 04:28:54 America/Fortaleza] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[14-Apr-2022 04:28:54 America/Fortaleza] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[14-Apr-2022 04:28:54 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[14-Apr-2022 04:28:54 America/Fortaleza] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
+[14-Apr-2022 04:28:54 America/Fortaleza] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/rodri606/ardesignerdeinteriores.com.br/wp-includes/functions.php on line 8
